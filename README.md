@@ -30,7 +30,7 @@ Dataset is based on city bike stations in Helsinki region with trips origin and 
 The steps applied included reading and transforming the dataset in Power Query editor, a component of the Power BI Desktop.</br>
 The reports created was completed using <a href="https://docs.microsoft.com/en-us/dax/dax-overview">DAX(Data Analysis Expressions), a formula expression language used in Analysis Services, Power BI, Power Pivot and Excel</a>
 
-After data transformation, the next stage was asking the questions
+After data transformation, the next stage was asking the right questions such as:
 <dl>
   <dt>Which bike origin station is popular</dt>
   <i><dd>---Popularity by week days and weekends</dd></i>
@@ -42,3 +42,4 @@ After data transformation, the next stage was asking the questions
   For example the presence of a pub, grocessry stories and some of the answers from map visualizations shows the presence
   of pub with more trips taken after midnight. 
 </dl>
+Based on the analysis, measures such as which station needs more bike depots can be applied.
