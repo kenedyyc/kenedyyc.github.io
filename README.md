@@ -27,5 +27,5 @@ Dataset is based on city bike stations in Helsinki region with trips origin and 
 <img src="https://i.ibb.co/C5MSkbf/BIVIZ1data.png" width="400"
      height="341"> </br>
 </br>The project was carried out using the Micrsoft Power BI platform.</br>
-The steps applied included reading and transforming the dataset Power Query editor, a component of the Power BI Desktop.</br>
+The steps applied included reading and transforming the dataset in Power Query editor, a component of the Power BI Desktop.</br>
 The reports created was completed using <a href="https://docs.microsoft.com/en-us/dax/dax-overview">DAX((Data Analysis Expressions), a formula expression language used in Analysis Services, Power BI, Power Pivot and Excel</a>
