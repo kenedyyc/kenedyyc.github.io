@@ -23,4 +23,4 @@ Replacement Teacher(Teaching subjects: Mathematics, Physics & Computer SCiences)
 ## Project
 
 Performing some data analysis & visualization using <a href="https://www.avoindata.fi/data/en_GB/dataset/helsingin-ja-espoon-kaupunkipyorilla-ajatut-matkat">open source dataset from avoindata.fi</a>
-[url=https://ibb.co/nz5j4r2][img]https://i.ibb.co/nz5j4r2/Kenedy-Intermediate-Machine-Learning.png[/img][/url]
+<img src="https://i.ibb.co/bz8XY1h/Kenedy-Intermediate-Machine-Learning.png">
