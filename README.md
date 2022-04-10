@@ -22,7 +22,10 @@ Replacement Teacher(Teaching subjects: Mathematics, Physics & Computer SCiences)
 
 ## Project
 
-Performing some data analysis & visualization using <a href="https://www.avoindata.fi/data/en_GB/dataset/helsingin-ja-espoon-kaupunkipyorilla-ajatut-matkat">open source dataset from avoindata.fi</a>
+Performing some data analysis & visualization using <a href="https://www.avoindata.fi/data/en_GB/dataset/helsingin-ja-espoon-kaupunkipyorilla-ajatut-matkat">open source dataset from avoindata.fi</a>.
 Dataset is based on city bike stations in Helsinki region with trips origin and  destination locations.
 <img src="https://i.ibb.co/C5MSkbf/BIVIZ1data.png" width="400"
      height="341">
+</br>The project was done using the Micrsoft Power BI platform.</br>
+The steps applied included reading and transforming the dataset Power Query editor, a component of the Power BI Desktop.</br>
+The reports created was completed using <a href="https://docs.microsoft.com/en-us/dax/dax-overview">DAX((Data Analysis Expressions), a formula expression language used in Analysis Services, Power BI, Power Pivot and Excel</a>
