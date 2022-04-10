@@ -9,7 +9,7 @@ My Portfolio
 
 ...
 ## Certificates
-<a href="https://www.credly.com/badges/1ae79ca1-5702-445d-a713-5cbd1a363215/public_url">SAS Certified Base Programmer for SAS 9 </a> 
+<a href="https://www.credly.com/badges/1ae79ca1-5702-445d-a713-5cbd1a363215/public_url">SAS Certified Base Programmer for SAS 9 </a> </br>
 <a href="https://courses.cognitiveclass.ai/certificates/914e4d207c6c4369be670d0ac3b356fc">Digital Analytics & Regression </a> 
 ## Employment
 Bachelor Thesis at Pöyry </br>
