@@ -24,5 +24,5 @@ Replacement Teacher(Teaching subjects: Mathematics, Physics & Computer SCiences)
 
 Performing some data analysis & visualization using <a href="https://www.avoindata.fi/data/en_GB/dataset/helsingin-ja-espoon-kaupunkipyorilla-ajatut-matkat">open source dataset from avoindata.fi</a>
 Dataset is based on city bike stations in Helsinki region with trips origin and  destination locations.
-<img src="https://i.ibb.co/Fnk3F8M/BIVIZ1data.png" width="400"
+<img src="https://i.ibb.co/C5MSkbf/BIVIZ1data.png" width="400"
      height="341">
