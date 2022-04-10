@@ -38,7 +38,7 @@ After data transformation, the next stage was asking the questions
   <i><dd>---Popularity by maximum distance travelled</dd></i>
   <i><dd>---Most popular date during by trip taken</dd></i>
   <i><dd>---Most popular destination froms starting point</dd></i>
-  ...AND future insights questions as to what makes a location popular within the region using map visualizations.
+  ...<strong>AND</strong> future insights questions as to what makes a location popular within the region using map visualizations.
   For example the presence of a pub, grocessry stories and some of the answers from map visualizations shows the presence
   of pub with more trips taken after midnight. 
 </dl>
