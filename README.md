@@ -3,7 +3,7 @@ My Portfolio
 
 ...
 ## Education
--BSc Physics Minor in Computer Sciences & Mathematics, University of Buea
+-BSc Physics Minor in Computer Sciences & Mathematics, University of Buea </br>
 -Degree Programme in Software Engineering, Helsinki Metropolia University of Applied Sciences
 
 ...
