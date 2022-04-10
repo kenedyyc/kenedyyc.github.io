@@ -44,4 +44,4 @@ After data transformation, the next stage was asking the right questions such as
 </dl>
 Based on the analysis, measures such as which station needs more bike depots can be applied.
 
-<img src="/kenedyyc.github.io/images/BIVIZ3" width="400"  height="341">
+<img src="images/BIVIZ1.png" width="400"  height="341">
