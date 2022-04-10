@@ -8,9 +8,9 @@ My Portfolio
 
 
 ...
-##Certificates
-</br><a href="https://www.credly.com/badges/1ae79ca1-5702-445d-a713-5cbd1a363215/public_url">SAS Certified Base Programmer for SAS 9 </a> 
-...
+## Certificates
+<a href="https://www.credly.com/badges/1ae79ca1-5702-445d-a713-5cbd1a363215/public_url">SAS Certified Base Programmer for SAS 9 </a> 
+
 ## Employment
 Bachelor Thesis at Pöyry </br>
 Replacement Teacher(Teaching subjects: Mathematics, Physics & Computer SCiences) at International School of Helsinki(ISH)
