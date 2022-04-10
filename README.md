@@ -44,7 +44,7 @@ After data transformation, the next stage was asking the right questions such as
 </dl>
 Based on the analysis, measures such as which station needs more bike depots can be applied.
 
-<img src="https://i.ibb.co/bsxZtnF/BIVIZ4.png" width="200"  height="200"> 
-<img src="https://i.ibb.co/drNC3Ym/BIVIZ3.png" width="200"  height="200"> 
-<img src="https://i.ibb.co/J2qYrJV/BIVIZ2.png" width="200"  height="200">
-<img src="https://i.ibb.co/3CsbCmt/BIVIZ1.png" width="200"  height="200">
+<img src="https://i.ibb.co/bsxZtnF/BIVIZ4.png" width="400"  height="200"> 
+<img src="https://i.ibb.co/drNC3Ym/BIVIZ3.png" width="400"  height="200"> 
+<img src="https://i.ibb.co/J2qYrJV/BIVIZ2.png" width="400"  height="200">
+<img src="https://i.ibb.co/3CsbCmt/BIVIZ1.png" width="400"  height="200">
