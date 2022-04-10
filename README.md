@@ -9,8 +9,7 @@ My Portfolio
 
 ...
 ##Certificates
-SAS Certified Base Programmer for SAS 9 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1ae79ca1-5702-445d-a713-5cbd1a363215" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+<a href="https://www.credly.com/badges/1ae79ca1-5702-445d-a713-5cbd1a363215/public_url">SAS Certified Base Programmer for SAS 9 </a> 
 ...
 ## Employment
 Bachelor Thesis at Pöyry </br>
