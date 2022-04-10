@@ -34,10 +34,10 @@ After data transformation, the next stage was asking the questions
 <dl>
   <dt>Which bike origin station is popular</dt>
   <i><dd>---Popularity by week days and weekends</dd></i>
-  <dd>---Popularity by leaving hour of the day</dd>
-  <dd>---Popularity by maximum distance travelled</dd>
-  <dd>---Most popular date during by trip taken</dd>
-  <dd>---Most popular destination froms starting point</dd>
+  <i><dd>---Popularity by leaving hour of the day</dd></i>
+  <i><dd>---Popularity by maximum distance travelled</dd></i>
+  <i><dd>---Most popular date during by trip taken</dd></i>
+  <i><dd>---Most popular destination froms starting point</dd></i>
   ...AND future insights questions as to what makes a location popular within the region using map visualizations.
   For example the presence of a pub, grocessry stories and some of the answers from map visualizations shows the presence
   of pub with more trips taken after midnight. 
