@@ -43,3 +43,5 @@ After data transformation, the next stage was asking the right questions such as
   of pub with more trips taken after midnight. 
 </dl>
 Based on the analysis, measures such as which station needs more bike depots can be applied.
+
+<img src="/GitHub/kenedyyc.github.io/images/BIVIZ3" width="400"  height="341">
