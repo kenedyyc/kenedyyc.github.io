@@ -32,8 +32,8 @@ The reports created was completed using <a href="https://docs.microsoft.com/en-u
 
 After data transformation, the next stage was asking the questions
 <dl>
-  <dt>---Which bike origin station is popular</dt>
-  <dd>---Popularity by week days and weekends</dd>
+  <dt>Which bike origin station is popular</dt>
+  <i><dd>---Popularity by week days and weekends</dd></i>
   <dd>---Popularity by leaving hour of the day</dd>
   <dd>---Popularity by maximum distance travelled</dd>
   <dd>---Most popular date during by trip taken</dd>
