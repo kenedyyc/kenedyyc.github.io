@@ -54,17 +54,14 @@ Based on the analysis, measures such as which station needs more bike depots can
                                 <td width="60%">
                                     <img src="https://i.ibb.co/bsxZtnF/BIVIZ4.png" width="400"  height="200"> 
                                 </td>
-                            <tr>
-                            
-                            <tr>    
-                                <td width="50%">
-                                    <img src="https://i.ibb.co/drNC3Ym/BIVIZ3.png" width="400"  height="200"> 
-                                </td>
-                                            
-                            </tr>
-
-                            <tr>
-                                            <td><img src="https://i.ibb.co/J2qYrJV/BIVIZ2.png" width="400"  height="200"></td>
+                                <td width="40%">
+                                    <table>
+                                        <tr>
+                                            <td><img src="http://via.placeholder.com/135x150"></td>
+                                            <td><img src="http://via.placeholder.com/135x150"></td>
+                                        </tr>
+                                        <tr>
+                                            <td><img src="http://via.placeholder.com/280x300"></td>
                                         </tr>
                                     </table>
                                 </td>
