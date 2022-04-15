@@ -42,7 +42,7 @@ After data transformation, the next stage was asking the right questions such as
   For example the presence of a pub, grocessry stories and some of the answers from map visualizations shows the presence
   of pub with more trips taken after midnight. 
 </dl>
-Based on the analysis, measures such as which station needs more bike depots can be applied.
+Based on the analysis, measures can be taken into account as which station/depots needs more bikes.
 
 <img src="https://i.ibb.co/bsxZtnF/BIVIZ4.png" width="400"  height="200"> 
 <img src="https://i.ibb.co/drNC3Ym/BIVIZ3.png" width="400"  height="200"> 
