@@ -36,8 +36,8 @@ After data transformation, the next stage was asking the right questions such as
   <i><dd>---by week days and weekends</dd></i>
   <i><dd>---by leaving hour of the day</dd></i>
   <i><dd>---by maximum distance travelled</dd></i>
-  <i><dd>---Most popular date during by trip taken</dd></i>
-  <i><dd>---Most popular destination from starting point</dd></i>
+  <i><dd>---per day trip date</dd></i>
+  <i><dd>---destination from starting point</dd></i>
   ...<i><strong>AND</strong></i> future insights questions as to what makes a location popular within the region using map visualizations.
   For example the presence of a pub, grocessry stories and some of the answers from map visualizations shows the presence
   of pub with more trips taken after midnight. 
