@@ -20,31 +20,12 @@ Bachelor Thesis at Pöyry </br>
 Replacement Teacher(Teaching subjects: Mathematics, Physics & Computer SCiences) at International School of Helsinki(ISH)
 
 
-## Project
 
-Performing some data analysis & visualization using <a href="https://www.avoindata.fi/data/en_GB/dataset/helsingin-ja-espoon-kaupunkipyorilla-ajatut-matkat">open source dataset from avoindata.fi</a>.
-Dataset is based on city bike stations in Helsinki region with trips origin and  destination locations.
-<img src="https://i.ibb.co/C5MSkbf/BIVIZ1data.png" width="400"
-     height="341"> </br>
-</br>The project was carried out using the Micrsoft Power BI platform.</br>
-The steps applied included reading and transforming the dataset in Power Query editor, a component of the Power BI Desktop.</br>
-The reports created was completed using <a href="https://docs.microsoft.com/en-us/dax/dax-overview">DAX(Data Analysis Expressions), a formula expression language used in Analysis Services, Power BI, Power Pivot and Excel</a>
-
-After data transformation, the next stage was asking the right questions such as:
-<dl>
-  <dt>Which bike origin station is popular</dt>
-  <i><dd>---by week days and weekends</dd></i>
-  <i><dd>---by leaving hour of the day</dd></i>
-  <i><dd>---by maximum distance travelled</dd></i>
-  <i><dd>---per day trip date</dd></i>
-  <i><dd>---destination from starting point</dd></i>
-  ...<i><strong>AND</strong></i> future insights questions as to what makes a location popular within the region using map visualizations.
-  For example the presence of a pub, grocessry stories and some of the answers from map visualizations shows the presence
-  of pub with more trips taken after midnight. 
-</dl>
-Based on the analysis, measures can be taken into account as to which station/depots needs more bikes.
-
+<!--
 <img src="https://i.ibb.co/bsxZtnF/BIVIZ4.png" width="400"  height="200"> 
 <img src="https://i.ibb.co/drNC3Ym/BIVIZ3.png" width="400"  height="200"> 
 <img src="https://i.ibb.co/J2qYrJV/BIVIZ2.png" width="400"  height="200">
 <img src="https://i.ibb.co/3CsbCmt/BIVIZ1.png" width="400"  height="200">
+
+->
+
