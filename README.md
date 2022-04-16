@@ -20,7 +20,8 @@ Bachelor Thesis at Pöyry </br>
 Replacement Teacher(Teaching subjects: Mathematics, Physics & Computer SCiences) at International School of Helsinki(ISH)
 
 
-
+## Projects
+https://github.com/kenedyyc/Helsinki-City-bike-stations-Origin-Destination-OD-data.git
 <!--
 <img src="https://i.ibb.co/bsxZtnF/BIVIZ4.png" width="400"  height="200"> 
 <img src="https://i.ibb.co/drNC3Ym/BIVIZ3.png" width="400"  height="200"> 
